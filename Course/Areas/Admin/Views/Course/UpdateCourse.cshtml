@@ -1,0 +1,72 @@
+﻿@using CourseApp.Areas.Admin.Models.CourseDTOs
+@model UpdateCourseDTO
+@addTagHelper*,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Update Course";
+    Layout = "~/Areas/Admin/Views/Shared/_adminLayout.cshtml";
+}
+
+<!-- Visible labels Form start -->
+<div class="col-lg-12 top20">
+    <div class="widgets-container">
+
+
+        <h5>Update Course</h5>
+        <hr>
+        <form method="post" enctype="multipart/form-data">
+            <input asp-for="CourseId" hidden />
+            <div class="row">
+                <div class="col-md-4">
+                    <input asp-for="CourseName" class="form-control" placeholder="Course name" type="text">
+                    <span asp-validation-for="CourseName" class="text-danger"></span>
+
+                </div>
+                <div class="col-md-4">
+                    <input asp-for="Price" class="form-control" placeholder="Price" type="text">
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-md-4">
+                    <select asp-for="TeacherId" asp-items="@ViewBag.Teachers" class="form-control"></select>
+                    <span asp-validation-for="TeacherId" class="text-danger"></span>
+                </div>
+                <div class="col-md-4">
+                    <select asp-for="CourseCategoryId" asp-items="@ViewBag.CourseCategory" class="form-control"></select>
+                    <span asp-validation-for="CourseCategoryId" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-md-4">
+                    <input asp-for="CourseImage" class="form-control" type="file">
+                    <span asp-validation-for="CourseImage" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-md-12">
+
+                    <textarea asp-for="CourseDescription" id="editor" class="form-control"> </textarea>
+                    <span asp-validation-for="CourseDescription" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <button class="btn btn-primary" type="submit">Save</button>
+        </form>
+    </div>
+</div>
+<!--Visible labels Form End -->
+<script src="~/ckeditor5-build-classic/ckeditor.js"></script>
+<script>
+    ClassicEditor
+        .create(document.querySelector('#editor'), {
+        })
+        .then(editor => {
+            window.editor = editor;
+        })
+        .catch(err => {
+            console.error(err.stack);
+        });
+</script>

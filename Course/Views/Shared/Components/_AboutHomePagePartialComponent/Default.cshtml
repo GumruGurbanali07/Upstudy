@@ -1,0 +1,22 @@
+﻿@model About
+
+<section class="w3l-servicesblock pt-lg-5 pt-4 pb-5 mb-lg-5" id="about">
+    <div class="container pb-md-5 pb-4">
+        <div class="row pb-xl-5 align-items-center">
+            <div class="col-lg-6 position-relative home-block-3-left pb-lg-0 pb-5">
+                <div class="position-relative">
+                    <img src="@Model.Image" alt="" class="img-fluid radius-image">
+                </div>
+                
+            </div>
+            <div class="col-xl-5 col-lg-6 offset-xl-1 mt-lg-0 mt-5 pt-lg-0 pt-5">
+                <h3 class="title-style">@Model.AboutTitle</h3>
+                <p class="mt-4">
+                  @Model.AboutDescription
+                </p>
+                
+                <a href="/Contact/Index" class="btn btn-style mt-5">Apply Now</a>
+            </div>
+        </div>
+    </div>
+</section>

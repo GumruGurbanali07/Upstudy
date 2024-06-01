@@ -1,0 +1,2989 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\about.html",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\css\\style-starter.css",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\css\\style-starter.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\banner.png",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\bg1.jpg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\bg2.jpg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\bg3.jpg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\bg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\blog1.jpg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\blog2.jpg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\blog3.jpg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\blog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\c1.jpg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\c2.jpg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\c3.jpg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\c4.jpg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\c5.jpg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\c6.jpg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\c6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\icon-1.png",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\icon-2.png",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\icon-3.png",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\icon-4.png",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\icon-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\image.jpg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\team1.png",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\team1.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\team2.png",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\team2.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\team3.png",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\team3.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\team4.png",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\team4.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\testi1.jpg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\testi1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\testi2.jpg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\testi2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\images\\testi3.jpg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\images\\testi3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\js\\counter.js",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\js\\counter.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\js\\theme-change.js",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\js\\theme-change.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\contact.html",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\courses.html",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\courses.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\detail.html",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\detail.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\index.html",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Edu-School-Starter\\starter-license-W3Layouts.txt",
+      "PackagePath": "staticwebassets\\Edu-School-Starter\\starter-license-W3Layouts.txt"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\AboutImagesFiles\\2907.jpg",
+      "PackagePath": "staticwebassets\\ImagesFiles\\AboutImagesFiles\\2907.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\AboutImagesFiles\\download (33).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\AboutImagesFiles\\download (33).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\AboutImagesFiles\\images (1).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\AboutImagesFiles\\images (1).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\AdminImagesFiles\\BigWMDsymbols.jpg",
+      "PackagePath": "staticwebassets\\ImagesFiles\\AdminImagesFiles\\BigWMDsymbols.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\AdminImagesFiles\\images (7).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\AdminImagesFiles\\images (7).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\8f9261b1-c13a-4382-a3be-2f904a970bb6.jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\8f9261b1-c13a-4382-a3be-2f904a970bb6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\Untitled11.jpg",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\Untitled11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\d0f13085-838f-496e-b3c8-3aa78f3938e2.jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\d0f13085-838f-496e-b3c8-3aa78f3938e2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (29).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (29).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (31).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (31).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (32).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (32).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (36).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (36).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (37).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (37).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (38).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (38).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (39).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (39).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (4).png",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (4).png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (40).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (40).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\download (5).png",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\download (5).png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\experience-img.png",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\experience-img.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\images (3).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\images (3).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\CourseImagesFiles\\images (6).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\CourseImagesFiles\\images (6).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\RegisterImagesFiles\\download (2).png",
+      "PackagePath": "staticwebassets\\ImagesFiles\\RegisterImagesFiles\\download (2).png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\RegisterImagesFiles\\download (31).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\RegisterImagesFiles\\download (31).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\RegisterImagesFiles\\download (36).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\RegisterImagesFiles\\download (36).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\RegisterImagesFiles\\images (4).png",
+      "PackagePath": "staticwebassets\\ImagesFiles\\RegisterImagesFiles\\images (4).png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\RegisterImagesFiles\\images (7).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\RegisterImagesFiles\\images (7).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\RegisterImagesFiles\\maxresdefault.jpg",
+      "PackagePath": "staticwebassets\\ImagesFiles\\RegisterImagesFiles\\maxresdefault.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\1182OS_02_01.jpg",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\1182OS_02_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\aa0157c654e5b1be01980948cea5d81d9f99ce38.jpeg",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\aa0157c654e5b1be01980948cea5d81d9f99ce38.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\atomic-bomb-hiroshima-nagasaki.webp",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\atomic-bomb-hiroshima-nagasaki.webp"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\download (31).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\download (31).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\download (41).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\download (41).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\download (42).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\download (42).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\images (14).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\images (14).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\images (15).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\images (15).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\images (16).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\images (16).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\images (2).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\images (2).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\StudentImagesFiles\\images (4).png",
+      "PackagePath": "staticwebassets\\ImagesFiles\\StudentImagesFiles\\images (4).png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\1182OS_02_01.jpg",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\1182OS_02_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\2021-04-27T123707Z_39891_MRPPBEAHUNOFFE_RTRMADP_0_CHERNOBYL.jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\2021-04-27T123707Z_39891_MRPPBEAHUNOFFE_RTRMADP_0_CHERNOBYL.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\Screenshot-2023-07-18-at-10.58.48-1140x684.png",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\Screenshot-2023-07-18-at-10.58.48-1140x684.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\d049af53-675f-4558-ad77-e3c2308f4f19.jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\d049af53-675f-4558-ad77-e3c2308f4f19.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\images (10).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\images (10).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\images (11).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\images (11).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\images (12).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\images (12).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\images (13).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\images (13).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\images (5).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\images (5).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TeacherImagesFiles\\images (9).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TeacherImagesFiles\\images (9).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TestimonialImagesFiles\\2021-04-27T123707Z_39891_MRPPBEAHUNOFFE_RTRMADP_0_CHERNOBYL.jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TestimonialImagesFiles\\2021-04-27T123707Z_39891_MRPPBEAHUNOFFE_RTRMADP_0_CHERNOBYL.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TestimonialImagesFiles\\6520602-1.jpg",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TestimonialImagesFiles\\6520602-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TestimonialImagesFiles\\GettyImages-495835759-5b2021ddba61770037f4f291.jpg",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TestimonialImagesFiles\\GettyImages-495835759-5b2021ddba61770037f4f291.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TestimonialImagesFiles\\images (17).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TestimonialImagesFiles\\images (17).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ImagesFiles\\TestimonialImagesFiles\\images (18).jfif",
+      "PackagePath": "staticwebassets\\ImagesFiles\\TestimonialImagesFiles\\images (18).jfif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-style.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-style.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-style6d24.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-style6d24.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme1.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme1.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme10.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme10.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme11.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme11.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme12.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme12.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme13.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme13.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme14.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme14.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme15.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme15.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme16.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme16.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme17.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme17.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme18.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme18.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme19.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme19.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme2.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme2.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme20.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme20.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme21.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme21.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme22.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme22.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme23.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme23.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme24.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme24.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme25.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme25.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme26.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme26.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme27.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme27.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme28.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme28.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme29.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme29.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme3.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme3.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme30.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme30.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme31.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme31.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme4.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme4.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme5.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme5.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme6.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme6.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme7.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme7.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme8.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme8.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\css\\iofrm-theme9.css",
+      "PackagePath": "staticwebassets\\Login and Register\\css\\iofrm-theme9.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\graphic1.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\graphic1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\graphic2.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\graphic2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\graphic3.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\graphic3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\graphic4.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\graphic4.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\graphic5.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\graphic5.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\graphic6.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\graphic6.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\graphic7.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\graphic7.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\graphic8.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\graphic8.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\icon1.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\icon1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\img3.png",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\img3.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\img4.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\img4.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\logo-dark.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\logo-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\logo-dark2.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\logo-dark2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\logo-grey.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\logo-grey.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\logo-light.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\logo-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\images\\logo-white-removebg-preview.png",
+      "PackagePath": "staticwebassets\\Login and Register\\images\\logo-white-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form1.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form10.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form11.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form12.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form13.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form14.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form15-p.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form15-p.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form15.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form16.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form17.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form18.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form19.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form2.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form20.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form21.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form22.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form23.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form24.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form25.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form26.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form27.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form28.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form29.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form3.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form30.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form31.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form4.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form5.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form6.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form7.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form8.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\img\\form9.jpg",
+      "PackagePath": "staticwebassets\\Login and Register\\img\\form9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Login and Register\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\js\\cleave.min.js",
+      "PackagePath": "staticwebassets\\Login and Register\\js\\cleave.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Login and Register\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\js\\main.js",
+      "PackagePath": "staticwebassets\\Login and Register\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Login and Register\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\login15.html",
+      "PackagePath": "staticwebassets\\Login and Register\\login15.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\register15.html",
+      "PackagePath": "staticwebassets\\Login and Register\\register15.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Login and Register\\webfonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\Login and Register\\webfonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Responsive Registraion or Sign up Form\\index.html",
+      "PackagePath": "staticwebassets\\Responsive Registraion or Sign up Form\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\Responsive Registraion or Sign up Form\\style.css",
+      "PackagePath": "staticwebassets\\Responsive Registraion or Sign up Form\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic.rar",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic.rar"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\LICENSE.md",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\README.md",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\ckeditor.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\ckeditor.js.map",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\ckeditor.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\index.html",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\sample\\css\\sample.css",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\sample\\css\\sample.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\sample\\img\\bg.png",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\sample\\img\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\sample\\img\\github.svg",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\sample\\img\\github.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\sample\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\sample\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\sample\\img\\umbrellas.jpg",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\sample\\img\\umbrellas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\af.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\ar.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\ast.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\ast.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\az.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\bg.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\bs.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\ca.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\cs.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\da.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\de-ch.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\de.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\el.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\en-au.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\en-gb.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\eo.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\es.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\et.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\eu.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\fa.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\fi.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\fr.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\gl.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\gu.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\he.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\hi.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\hr.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\hu.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\id.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\it.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\ja.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\km.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\kn.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\kn.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\ko.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\ku.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\lt.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\lv.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\ms.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\nb.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\ne.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\ne.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\nl.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\no.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\oc.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\pl.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\pt-br.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\pt.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\ro.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\ru.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\si.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\sk.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\sl.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\sq.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\sr-latn.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\sr.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\sv.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\th.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\tk.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\tk.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\tr.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\tt.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\ug.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\uk.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\uz.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\uz.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\vi.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\zh-cn.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\ckeditor5-build-classic\\translations\\zh.js",
+      "PackagePath": "staticwebassets\\ckeditor5-build-classic\\translations\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\404.html",
+      "PackagePath": "staticwebassets\\course-admin\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\500.html",
+      "PackagePath": "staticwebassets\\course-admin\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\MediaObjects_Thumbnails.html",
+      "PackagePath": "staticwebassets\\course-admin\\MediaObjects_Thumbnails.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\alerts_Modal_Tooltip.html",
+      "PackagePath": "staticwebassets\\course-admin\\alerts_Modal_Tooltip.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\article.html",
+      "PackagePath": "staticwebassets\\course-admin\\article.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\Jcrop.gif",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\Jcrop.gif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\adminbagdemo.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\adminbagdemo.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\ameffectsanimation.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\ameffectsanimation.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\aqua-black.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\aqua-black.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\blueimp-gallery.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\blueimp-gallery.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\bootstrap-colorpicker.min.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\bootstrap-colorpicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\buttons.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\buttons.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\dashboard3.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\dashboard3.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\eCommerce.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\eCommerce.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\ecommerce_products_grid2.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\ecommerce_products_grid2.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\export.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\export.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\fixedHeader.dataTables.min.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\fixedHeader.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\flotCart.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\flotCart.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\fullcalendar.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\fullcalendar.print.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\fullcalendar.print.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\horizontalTimeLine.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\horizontalTimeLine.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\images\\ui-bg_flat_0_aaaaaa_40x100.html",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\images\\ui-bg_flat_0_aaaaaa_40x100.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\images\\ui-bg_flat_75_ffffff_40x100.html",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\images\\ui-bg_flat_75_ffffff_40x100.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\images\\ui-bg_glass_55_fbf9ee_1x400.html",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\images\\ui-bg_glass_55_fbf9ee_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\images\\ui-bg_glass_65_ffffff_1x400.html",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\images\\ui-bg_glass_65_ffffff_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\images\\ui-bg_glass_75_dadada_1x400.html",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\images\\ui-bg_glass_75_dadada_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\images\\ui-bg_glass_75_e6e6e6_1x400.html",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\images\\ui-bg_glass_75_e6e6e6_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\images\\ui-bg_glass_95_fef1ec_1x400.html",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\images\\ui-bg_glass_95_fef1ec_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\images\\ui-bg_highlight-soft_75_cccccc_1x100.html",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\images\\ui-bg_highlight-soft_75_cccccc_1x100.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\images\\ui-icons_222222_256x240.html",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\images\\ui-icons_222222_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\images\\ui-icons_2e83ff_256x240.html",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\images\\ui-icons_2e83ff_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\images\\ui-icons_454545_256x240.html",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\images\\ui-icons_454545_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\images\\ui-icons_888888_256x240.html",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\images\\ui-icons_888888_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\images\\ui-icons_cd0a0a_256x240.html",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\images\\ui-icons_cd0a0a_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\jasny-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\jasny-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\jquery.Jcrop.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\jquery.Jcrop.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\jquery.slimscroll.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\jquery.slimscroll.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\jqvmap.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\jqvmap.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\mailbox.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\mailbox.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\main.media.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\main.media.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\morris.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\multi-select.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\multi-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\page-header.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\page-header.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\profile.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\profile.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\profile2.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\profile2.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\project.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\project.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\responsive.dataTables.min.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\responsive.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\search-result.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\search-result.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\all.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\_all.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\aero.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\aero.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\aero@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\blue.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\blue@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\flat.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\flat.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\flat@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\flat@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\green.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\green@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\grey.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\grey.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\grey@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\orange.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\orange@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\pink.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\pink.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\pink@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\purple.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\purple.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\purple@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\red.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\red@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\yellow.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\flat\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\flat\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\futurico\\futurico.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\futurico\\futurico.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\futurico\\futurico.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\futurico\\futurico.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\futurico\\futurico@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\futurico\\futurico@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\line\\_all.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\line\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\line\\line.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\line\\line.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\line\\line@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\line\\line@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\_all.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\aero.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\aero.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\aero@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\blue.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\blue@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\green.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\green@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\grey.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\grey.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\grey@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\minimal.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\minimal.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\minimal@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\minimal@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\orange.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\orange@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\pink.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\pink.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\pink@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\purple.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\purple.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\purple@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\red.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\red@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\yellow.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\minimal\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\minimal\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\polaris\\polaris.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\polaris\\polaris.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\polaris\\polaris.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\polaris\\polaris.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\polaris\\polaris@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\polaris\\polaris@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\_all.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\_all.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\aero.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\aero.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\aero@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\aero@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\blue.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\blue@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\blue@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\green.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\green@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\green@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\grey.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\grey.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\grey@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\grey@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\orange.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\orange@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\orange@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\pink.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\pink.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\pink@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\pink@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\purple.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\purple.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\purple@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\purple@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\red.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\red@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\red@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\square.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\square.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\square@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\square@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\yellow.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\skins\\square\\yellow@2x.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\skins\\square\\yellow@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\css\\timeline.css",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\css\\timeline.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\Simple-Line-Iconsd41d.eot",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\Simple-Line-Iconsd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\fonts\\slickd41d.eot",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\fonts\\slickd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\artical.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\artical.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\blogs\\1.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\blogs\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\blogs\\2.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\blogs\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\blogs\\3.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\blogs\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\blogs\\4.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\blogs\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\blogs\\5.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\blogs\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\blogs\\6.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\blogs\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\blogs\\7.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\blogs\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\blogs\\8.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\blogs\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\blogs\\9.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\blogs\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\demo_files\\01.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\demo_files\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\demo_files\\02.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\demo_files\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\demo_files\\03.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\demo_files\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\demo_files\\animation\\01.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\demo_files\\animation\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\demo_files\\animation\\02.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\demo_files\\animation\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\demo_files\\animation\\03.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\demo_files\\animation\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\demo_files\\animation\\04.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\demo_files\\animation\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\demo_files\\animation\\05.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\demo_files\\animation\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\demo_files\\animation\\06.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\demo_files\\animation\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\demo_files\\animation\\07.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\demo_files\\animation\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\demo_files\\fun.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\demo_files\\fun.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\demo_files\\pool.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\demo_files\\pool.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\demo_files\\sago.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\demo_files\\sago.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\emailTemplate\\email_1.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\emailTemplate\\email_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\emailTemplate\\email_2.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\emailTemplate\\email_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\emailTemplate\\email_3.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\emailTemplate\\email_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\emailTemplate\\email_4.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\emailTemplate\\email_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\emailTemplate\\email_5.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\emailTemplate\\email_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\emailTemplate\\email_6.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\emailTemplate\\email_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\error.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\error.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\error.svg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\error.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\gallery\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\gallery\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\gallery\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\gallery\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\gallery\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\gallery\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\gallery\\8.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\gallery\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\gallery\\9.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\gallery\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\imgcolor\\bootstrap-colorpicker\\alpha-horizontal.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\imgcolor\\bootstrap-colorpicker\\alpha-horizontal.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\imgcolor\\bootstrap-colorpicker\\alpha.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\imgcolor\\bootstrap-colorpicker\\alpha.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\imgcolor\\bootstrap-colorpicker\\hue-horizontal.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\imgcolor\\bootstrap-colorpicker\\hue-horizontal.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\imgcolor\\bootstrap-colorpicker\\hue.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\imgcolor\\bootstrap-colorpicker\\hue.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\imgcolor\\bootstrap-colorpicker\\saturation.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\imgcolor\\bootstrap-colorpicker\\saturation.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\login-bg\\1.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\login-bg\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\logoL.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\logoL.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\movie\\1.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\movie\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\movie\\2.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\movie\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\movie\\3.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\movie\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\movie\\4.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\movie\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\movie\\5.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\movie\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\movie\\6.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\movie\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\movie\\7.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\movie\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\play-pause.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\play-pause.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\play-pause.svg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\play-pause.svg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\pro2-c-bg.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\pro2-c-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\productDetail\\1.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\productDetail\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\productDetail\\10.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\productDetail\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\productDetail\\11.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\productDetail\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\productDetail\\12.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\productDetail\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\productDetail\\13.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\productDetail\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\productDetail\\14.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\productDetail\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\productDetail\\15.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\productDetail\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\productDetail\\16.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\productDetail\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\productDetail\\2.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\productDetail\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\productDetail\\3.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\productDetail\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\productDetail\\4.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\productDetail\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\productDetail\\5.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\productDetail\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\productDetail\\6.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\productDetail\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\productDetail\\7.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\productDetail\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\productDetail\\8.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\productDetail\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\productDetail\\9.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\productDetail\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\profile_big.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\profile_big.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\profile_big2.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\profile_big2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\profile_big3.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\profile_big3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\sidebar_toggler_icon_darkblue.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\sidebar_toggler_icon_darkblue.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\sprite-skin-flat.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\sprite-skin-flat.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\switch.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\switch.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\teem-large\\a1.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\teem-large\\a1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\teem-large\\a10.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\teem-large\\a10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\teem-large\\a2.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\teem-large\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\teem-large\\a4.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\teem-large\\a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\teem-large\\a5.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\teem-large\\a5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\teem-large\\a6.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\teem-large\\a6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\teem-large\\a7.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\teem-large\\a7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\teem-large\\a8.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\teem-large\\a8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\teem\\a1.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\teem\\a1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\teem\\a10.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\teem\\a10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\teem\\a11.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\teem\\a11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\teem\\a2.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\teem\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\teem\\a3.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\teem\\a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\teem\\a4.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\teem\\a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\teem\\a5.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\teem\\a5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\teem\\a6.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\teem\\a6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\teem\\a7.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\teem\\a7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\teem\\a8.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\teem\\a8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\teem\\a9.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\teem\\a9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\images\\w-logo.png",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\images\\w-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\img\\transparent\\black-0.2.html",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\img\\transparent\\black-0.2.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\adminbagdemo.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\adminbagdemo.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\dashboard1.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\dashboard1.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\dashboard2.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\dashboard2.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\dashboard3.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\dashboard3.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\dashboard4.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\dashboard4.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\amcharts.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\amcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\amcharts\\amcharts.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\amcharts\\amcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\amcharts\\ammap.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\amcharts\\ammap.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\amcharts\\amstock.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\amcharts\\amstock.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\amcharts\\export.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\amcharts\\export.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\amcharts\\funnel.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\amcharts\\funnel.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\amcharts\\gantt.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\amcharts\\gantt.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\amcharts\\light.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\amcharts\\light.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\amcharts\\pie.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\amcharts\\pie.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\amcharts\\radar.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\amcharts\\radar.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\amcharts\\serial.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\amcharts\\serial.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\amcharts\\worldLow.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\amcharts\\worldLow.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\bootstrap-colorpicker.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\bootstrap-colorpicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\bootstrap-datetimepicker.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\bootstrap-datetimepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\bootstrap-wysiwyg.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\bootstrap-wysiwyg.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\buttons.flash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\chartJs.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\chartJs.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\chartJs\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\chartJs\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\dataTables.fixedHeader.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\dataTables.fixedHeader.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\demo.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\flotCart.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\flotCart.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.categories.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.categories.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.crosshair.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.crosshair.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.spline.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.spline.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.stack.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.stack.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.symbol.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.symbol.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.time.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.time.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\flotCart\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\gmaps.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\googleCart.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\googleCart.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\googleCart\\jsapi.html",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\googleCart\\jsapi.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\googleCart\\loader.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\googleCart\\loader.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\hTimeline.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\hTimeline.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\icheck.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\icheck.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\ion.rangeSlider.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\ion.rangeSlider.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\jasny-bootstrap.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\jasny-bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\jquery.Jcrop.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\jquery.Jcrop.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\jquery.blueimp-gallery.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\jquery.blueimp-gallery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\jquery.easypiechart.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\jquery.easypiechart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\jquery.hotkeys.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\jquery.hotkeys.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\jquery.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\jquery.mobile.custom.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\jquery.mobile.custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\jquery.multi-select.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\jquery.multi-select.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\jszip.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\lib\\jquery-ui.custom.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\lib\\jquery-ui.custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\lib\\moment.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\lib\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\locales\\bootstrap-datetimepicker.fr.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\locales\\bootstrap-datetimepicker.fr.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\moment.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\morrisJs.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\morrisJs.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\morrisJs\\jquery-1.8.2.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\morrisJs\\jquery-1.8.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\morrisJs\\morris-0.4.1.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\morrisJs\\morris-0.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\morrisJs\\raphael-min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\morrisJs\\raphael-min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\pace\\pace.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\pace\\pace.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\peityJs.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\peityJs.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\peityJs\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\peityJs\\jquery.peity.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\select2.min.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\slick.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\sparkline-demo.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\sparkline-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\vMap\\dist\\jquery.vmap.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\vMap\\dist\\jquery.vmap.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\vMap\\dist\\maps\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\vMap\\dist\\maps\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\vMap\\dist\\maps\\jquery.vmap.france.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\vMap\\dist\\maps\\jquery.vmap.france.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\vMap\\dist\\maps\\jquery.vmap.russia.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\vMap\\dist\\maps\\jquery.vmap.russia.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\vMap\\dist\\maps\\jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\vMap\\dist\\maps\\jquery.vmap.usa.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\vMap\\dist\\maps\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\vMap\\dist\\maps\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\validator.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\validator.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\assets\\js\\vendor\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\course-admin\\assets\\js\\vendor\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\badges_labels_progress.html",
+      "PackagePath": "staticwebassets\\course-admin\\badges_labels_progress.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\blog.html",
+      "PackagePath": "staticwebassets\\course-admin\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\calendar.html",
+      "PackagePath": "staticwebassets\\course-admin\\calendar.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\carousel.html",
+      "PackagePath": "staticwebassets\\course-admin\\carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\components_Image_Cropping.html",
+      "PackagePath": "staticwebassets\\course-admin\\components_Image_Cropping.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\components_RangeSlider.html",
+      "PackagePath": "staticwebassets\\course-admin\\components_RangeSlider.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\components_Text_Editing.html",
+      "PackagePath": "staticwebassets\\course-admin\\components_Text_Editing.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\components_autocomplete.html",
+      "PackagePath": "staticwebassets\\course-admin\\components_autocomplete.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\components_colourPikar.html",
+      "PackagePath": "staticwebassets\\course-admin\\components_colourPikar.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\components_datetime_pickers.html",
+      "PackagePath": "staticwebassets\\course-admin\\components_datetime_pickers.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\components_dropDown.html",
+      "PackagePath": "staticwebassets\\course-admin\\components_dropDown.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\components_fileinput.html",
+      "PackagePath": "staticwebassets\\course-admin\\components_fileinput.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\components_multi_select.html",
+      "PackagePath": "staticwebassets\\course-admin\\components_multi_select.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\contacts.html",
+      "PackagePath": "staticwebassets\\course-admin\\contacts.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\contacts_2.html",
+      "PackagePath": "staticwebassets\\course-admin\\contacts_2.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\dashboard2.html",
+      "PackagePath": "staticwebassets\\course-admin\\dashboard2.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\dashboard3.html",
+      "PackagePath": "staticwebassets\\course-admin\\dashboard3.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\dashboard4.html",
+      "PackagePath": "staticwebassets\\course-admin\\dashboard4.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\ecommerce-cart.html",
+      "PackagePath": "staticwebassets\\course-admin\\ecommerce-cart.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\ecommerce_product_detail.html",
+      "PackagePath": "staticwebassets\\course-admin\\ecommerce_product_detail.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\ecommerce_product_list.html",
+      "PackagePath": "staticwebassets\\course-admin\\ecommerce_product_list.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\ecommerce_products_grid1.html",
+      "PackagePath": "staticwebassets\\course-admin\\ecommerce_products_grid1.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\ecommerce_products_grid2.html",
+      "PackagePath": "staticwebassets\\course-admin\\ecommerce_products_grid2.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\email_template.html",
+      "PackagePath": "staticwebassets\\course-admin\\email_template.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\email_templates\\action.html",
+      "PackagePath": "staticwebassets\\course-admin\\email_templates\\action.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\email_templates\\alert.html",
+      "PackagePath": "staticwebassets\\course-admin\\email_templates\\alert.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\email_templates\\billing.html",
+      "PackagePath": "staticwebassets\\course-admin\\email_templates\\billing.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\email_templates\\confirm.html",
+      "PackagePath": "staticwebassets\\course-admin\\email_templates\\confirm.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\email_templates\\img\\03.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\email_templates\\img\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\email_templates\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\email_templates\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\email_templates\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\email_templates\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\email_templates\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\email_templates\\img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\email_templates\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\email_templates\\img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\email_templates\\img\\header.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\email_templates\\img\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\email_templates\\img\\logo.png",
+      "PackagePath": "staticwebassets\\course-admin\\email_templates\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\email_templates\\img\\pro.jpg",
+      "PackagePath": "staticwebassets\\course-admin\\email_templates\\img\\pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\email_templates\\invite.html",
+      "PackagePath": "staticwebassets\\course-admin\\email_templates\\invite.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\email_templates\\reignite.html",
+      "PackagePath": "staticwebassets\\course-admin\\email_templates\\reignite.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\email_templates\\styles.css",
+      "PackagePath": "staticwebassets\\course-admin\\email_templates\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\faq.html",
+      "PackagePath": "staticwebassets\\course-admin\\faq.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\forgot_password.html",
+      "PackagePath": "staticwebassets\\course-admin\\forgot_password.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\graph_amcharts.html",
+      "PackagePath": "staticwebassets\\course-admin\\graph_amcharts.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\graph_chartjs.html",
+      "PackagePath": "staticwebassets\\course-admin\\graph_chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\graph_flotchart.html",
+      "PackagePath": "staticwebassets\\course-admin\\graph_flotchart.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\graph_google.html",
+      "PackagePath": "staticwebassets\\course-admin\\graph_google.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\graph_morris.html",
+      "PackagePath": "staticwebassets\\course-admin\\graph_morris.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\graph_peity.html",
+      "PackagePath": "staticwebassets\\course-admin\\graph_peity.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\graph_sparkline.html",
+      "PackagePath": "staticwebassets\\course-admin\\graph_sparkline.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\grid_options.html",
+      "PackagePath": "staticwebassets\\course-admin\\grid_options.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\index.html",
+      "PackagePath": "staticwebassets\\course-admin\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\invoice.html",
+      "PackagePath": "staticwebassets\\course-admin\\invoice.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\issue_tracker.html",
+      "PackagePath": "staticwebassets\\course-admin\\issue_tracker.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\layout_Boxed_Page.html",
+      "PackagePath": "staticwebassets\\course-admin\\layout_Boxed_Page.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\layout_blank_page.html",
+      "PackagePath": "staticwebassets\\course-admin\\layout_blank_page.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\layout_footer_fixed.html",
+      "PackagePath": "staticwebassets\\course-admin\\layout_footer_fixed.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\layout_menu_dark.html",
+      "PackagePath": "staticwebassets\\course-admin\\layout_menu_dark.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\layout_menu_light.html",
+      "PackagePath": "staticwebassets\\course-admin\\layout_menu_light.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\layout_search_on_header.html",
+      "PackagePath": "staticwebassets\\course-admin\\layout_search_on_header.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\layout_sidebar_closed.html",
+      "PackagePath": "staticwebassets\\course-admin\\layout_sidebar_closed.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\layout_sidebar_fixed.html",
+      "PackagePath": "staticwebassets\\course-admin\\layout_sidebar_fixed.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\layout_sidebar_menu_light.html",
+      "PackagePath": "staticwebassets\\course-admin\\layout_sidebar_menu_light.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\layout_white.html",
+      "PackagePath": "staticwebassets\\course-admin\\layout_white.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\lightbox_gallery.html",
+      "PackagePath": "staticwebassets\\course-admin\\lightbox_gallery.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\lockscreen.html",
+      "PackagePath": "staticwebassets\\course-admin\\lockscreen.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\login.html",
+      "PackagePath": "staticwebassets\\course-admin\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\login_v2.html",
+      "PackagePath": "staticwebassets\\course-admin\\login_v2.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\mail_compose.html",
+      "PackagePath": "staticwebassets\\course-admin\\mail_compose.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\mail_detail.html",
+      "PackagePath": "staticwebassets\\course-admin\\mail_detail.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\mailbox.html",
+      "PackagePath": "staticwebassets\\course-admin\\mailbox.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\maps_google.html",
+      "PackagePath": "staticwebassets\\course-admin\\maps_google.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\maps_vector.html",
+      "PackagePath": "staticwebassets\\course-admin\\maps_vector.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\profile.html",
+      "PackagePath": "staticwebassets\\course-admin\\profile.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\profile_2.html",
+      "PackagePath": "staticwebassets\\course-admin\\profile_2.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\projects.html",
+      "PackagePath": "staticwebassets\\course-admin\\projects.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\register.html",
+      "PackagePath": "staticwebassets\\course-admin\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\register_v2.html",
+      "PackagePath": "staticwebassets\\course-admin\\register_v2.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\search_results.html",
+      "PackagePath": "staticwebassets\\course-admin\\search_results.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\slick_carousel.html",
+      "PackagePath": "staticwebassets\\course-admin\\slick_carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\table_datatables.html",
+      "PackagePath": "staticwebassets\\course-admin\\table_datatables.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\table_static_basic.html",
+      "PackagePath": "staticwebassets\\course-admin\\table_static_basic.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\timeline.html",
+      "PackagePath": "staticwebassets\\course-admin\\timeline.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\timeline_horizontal.html",
+      "PackagePath": "staticwebassets\\course-admin\\timeline_horizontal.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\ui_buttons.html",
+      "PackagePath": "staticwebassets\\course-admin\\ui_buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\ui_colors.html",
+      "PackagePath": "staticwebassets\\course-admin\\ui_colors.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\ui_form.html",
+      "PackagePath": "staticwebassets\\course-admin\\ui_form.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\ui_grids.html",
+      "PackagePath": "staticwebassets\\course-admin\\ui_grids.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\ui_icons.html",
+      "PackagePath": "staticwebassets\\course-admin\\ui_icons.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\ui_panels.html",
+      "PackagePath": "staticwebassets\\course-admin\\ui_panels.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\ui_tabs.html",
+      "PackagePath": "staticwebassets\\course-admin\\ui_tabs.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\ui_typography.html",
+      "PackagePath": "staticwebassets\\course-admin\\ui_typography.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\course-admin\\widgets.html",
+      "PackagePath": "staticwebassets\\course-admin\\widgets.html"
+    },
+    {
+      "Id": "C:\\Users\\Sheki-S\\source\\repos\\Course\\Course\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CourseApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CourseApp.props",
+      "PackagePath": "build\\CourseApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CourseApp.props",
+      "PackagePath": "buildMultiTargeting\\CourseApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CourseApp.props",
+      "PackagePath": "buildTransitive\\CourseApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

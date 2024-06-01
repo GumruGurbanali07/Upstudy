@@ -1,0 +1,72 @@
+﻿@model List<Blog>
+@{
+    ViewData["Title"] = "Blogs";
+    ViewData["BlogA"] = "active-menu";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+<!-- Page Banner Start -->
+<div class="section page-banner-section" style="background-image: url(/upstudy/assets/images/bg/page-banner.jpg);">
+    <div class="shape-1">
+        <img src="~/upstudy/assets/images/shape/shape-7.png" alt="">
+    </div>
+    <div class="shape-2">
+        <img src="~/upstudy/assets/images/shape/shape-1.png" alt="">
+    </div>
+    <div class="shape-3"></div>
+    <div class="container">
+        <div class="page-banner-wrap">
+            <div class="row">
+                <div class="col-lg-12">
+                    <!-- Page Banner Content Start -->
+                    <div class="page-banner text-center">
+                        <h2 class="title">Blogs</h2>
+                        <ul class="breadcrumb justify-content-center">
+                            <li class="breadcrumb-item"><a href="/Home/Index">Home</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Blogs</li>
+                        </ul>
+                    </div>
+                    <!-- Page Banner Content End -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Page Banner End -->
+<!-- Blog Start -->
+<div class="section upstudy-blog-section section-padding">
+    <div class="container">
+        <!-- Latest Blog Wrap Start -->
+        <div class="blog-wrap">
+
+            <div class="row">
+                @foreach (var item in Model)
+                {
+                    <div class="col-lg-4 col-sm-6">
+                        <!-- Latest Blog Item Start -->
+                        <div class="single-blog text-center">
+                            <div class="blog-img">
+                                <a href="/Blog/BlogDetail/@item.BlogId"><img style="height:200px; width:200px" src="@item.Image" alt=""></a>
+                            </div>
+                            <div class="blog-content">
+                                <div class="blog-meta">
+                                    <span><i class="far fa-user"></i> <a href="#">@item.Teacher.TeacherName</a></span>
+                                    <span><i class="far fa-calendar-alt"></i>@item.CreatedDate.ToString("MMMM dd, yyyy - HH:mm")</span>
+                                </div>
+                                <h3 class="title"><a href="/Blog/BlogDetail/@item.BlogId">@item.BlogTitle</a></h3>
+                                <a class="blog-btn" href="/Blog/BlogDetail/@item.BlogId"> Read More</a>
+                            </div>
+                        </div>
+                        <!-- Latest Blog Item End -->
+                    </div>
+                }
+
+
+            </div>
+
+           
+        </div>
+        <!-- Blog Wrap End -->
+    </div>
+</div>
+<!-- Blog End -->

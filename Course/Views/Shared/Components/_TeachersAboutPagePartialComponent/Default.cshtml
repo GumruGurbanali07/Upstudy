@@ -1,0 +1,25 @@
+﻿@model List<Teacher>
+<section class="w3l-team-13 py-5" id="team">
+    <div class="container py-md-5 py-4">
+        <div class="title-main text-center mx-auto mb-md-5 mb-4" style="max-width:500px;">
+            <p class="text-uppercase">Our Team</p>
+            <h3 class="title-style">Meet our Teachers</h3>
+        </div>
+        <div class="row text-center left-side">
+            @foreach (var item in Model)
+            {
+                <div style="margin-top:5px" class="col-lg-3 col-6">
+                    <div class="image-one">
+                        <a href="#team">
+                            <img src="@item.TeacherImage" class="arrow-png img-responsive" />
+                            <h4>@item.TeacherName</h4>
+
+                        </a>
+                    </div>
+                </div>
+            }
+
+
+        </div>
+    </div>
+</section>

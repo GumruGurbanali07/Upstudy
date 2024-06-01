@@ -1,0 +1,27 @@
+﻿@model CourseApp.Models.BlogCategory
+@addTagHelper*,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Create Category";
+    Layout = "~/Areas/Admin/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="col-lg-12 top20">
+    <div class="widgets-container">
+
+
+        <h5>Create Category</h5>
+        <hr>
+        <form method="post" enctype="multipart/form-data">
+
+            <div class="row">
+                <div class="col-md-4">
+                    <input asp-for="Name" class="form-control" placeholder="Category name" type="text">
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <button class="btn btn-primary" type="submit">Save</button>
+        </form>
+    </div>
+</div>
+

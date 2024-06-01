@@ -1,0 +1,151 @@
+﻿@model List<Testimonial>
+@{
+    int count = 0;
+}
+<style>
+    .carousel img {
+        width: 70px;
+        max-height: 70px;
+        border-radius: 50%;
+        margin-right: 1rem;
+        overflow: hidden;
+    }
+
+    .carousel-inner {
+        padding: 1em;
+    }
+
+    .carousel .card {
+        margin: 0 0.5em;
+        border: 0;
+        width:1200px;
+        height:200px;
+    }
+
+    .carousel-control-prev,
+    .carousel-control-next {
+        width: 3rem;
+        height: 3rem;
+        background-color: grey;
+        border-radius: 50%;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    .card-text{
+        margin-bottom:20px;
+    }
+    </style>
+<div class="section upstudy-testimonial-section">
+    <div class="container">
+        <!-- Testimonial Wrap Start -->
+        <div class="testimonial-wrap" style="background-image: url(/upstudy/assets/images/bg/testi-bg.jpg);">
+            <div class="shape-1">
+                <img src="~/upstudy/assets/images/shape/testi-shape1.png" alt="">
+            </div>
+
+            <!-- Testimonial Content Start -->
+            <div>
+                <br />
+                <br />
+                <div class="container-fluid bg-body-tertiary py-3">
+                    <div id="testimonialCarousel" class="carousel">
+                        <div class="carousel-inner">
+                            @foreach (var item in Model)
+                            {
+                                count++;
+                                if (count == 1)
+                                {
+                                    <div class="carousel-item active">
+                                        <div class="card shadow-sm rounded-3">
+                                            <div class="quotes display-2 text-body-tertiary">
+                                                <i class="bi bi-quote"></i>
+                                            </div>
+                                            <div class="card-body">
+                                                <p class="card-text">
+                                                    "@item.TestimonialDescription"
+                                                </p>
+                                                <div class="d-flex align-items-center pt-2">
+                                                    <img src="@item.TestimonialImage" alt="bootstrap testimonial carousel slider 2">
+                                                    <div>
+                                                        <h5 class="card-title fw-bold">@item.TestimonialName</h5>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+                                else
+                                {
+                                    <div class="carousel-item">
+                                        <div class="card shadow-sm rounded-3">
+                                            <div class="quotes display-2 text-body-tertiary">
+                                                <i class="bi bi-quote"></i>
+                                            </div>
+                                            <div class="card-body">
+                                                <p class="card-text">
+                                                    "@item.TestimonialDescription"
+                                                </p>
+                                                <div class="d-flex align-items-center pt-2">
+                                                    <img src="@item.TestimonialImage" alt="bootstrap testimonial carousel slider 2">
+                                                    <div>
+                                                        <h5 class="card-title fw-bold">@item.TestimonialName</h5>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+                            }
+
+
+
+                        </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Testimonial Wrap End -->
+    </div>
+</div>
+<script>
+    const multipleItemCarousel = document.querySelector("#testimonialCarousel");
+
+    if (window.matchMedia("(min-width:576px)").matches) {
+        const carousel = new bootstrap.Carousel(multipleItemCarousel, {
+            interval: false
+        });
+
+        var carouselWidth = $(".carousel-inner")[0].scrollWidth;
+        var cardWidth = $(".carousel-item").width();
+
+        var scrollPosition = 0;
+
+        $(".carousel-control-next").on("click", function () {
+            if (scrollPosition < carouselWidth - cardWidth * 3) {
+                console.log("next");
+                scrollPosition = scrollPosition + cardWidth;
+                $(".carousel-inner").animate({ scrollLeft: scrollPosition }, 800);
+            }
+        });
+        $(".carousel-control-prev").on("click", function () {
+            if (scrollPosition > 0) {
+                scrollPosition = scrollPosition - cardWidth;
+                $(".carousel-inner").animate({ scrollLeft: scrollPosition }, 800);
+            }
+        });
+    } else {
+        $(multipleItemCarousel).addClass("slide");
+    }
+
+</script>

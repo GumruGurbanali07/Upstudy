@@ -1,0 +1,69 @@
+﻿@using CourseApp.Areas.Admin.Models.BlogDTOs
+@model UpdateBlogDTO
+@addTagHelper*,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Update Blog";
+    Layout = "~/Areas/Admin/Views/Shared/_adminLayout.cshtml";
+}
+
+<!-- Visible labels Form start -->
+<div class="col-lg-12 top20">
+    <div class="widgets-container">
+
+
+        <h5>Update Blog</h5>
+        <hr>
+        <form method="post" enctype="multipart/form-data">
+            <input asp-for="BlogId" hidden />
+            <div class="row">
+                <div class="col-md-4">
+                    <input asp-for="BlogTitle" class="form-control" placeholder="Blog Title" type="text">
+                    <span asp-validation-for="BlogTitle" class="text-danger"></span>
+
+                </div>
+
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-md-4">
+                    <select asp-for="TeacherId" asp-items="@ViewBag.Teachers" class="form-control"></select>
+                    <span asp-validation-for="TeacherId" class="text-danger"></span>
+                </div>
+                <div class="col-md-4">
+                    <select asp-for="BlogCategoryId" asp-items="@ViewBag.BlogCategory" class="form-control"></select>
+                    <span asp-validation-for="BlogCategoryId" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-md-4">
+                    <input asp-for="Image" class="form-control" type="file">
+                    <span asp-validation-for="Image" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-md-12">
+
+                    <textarea asp-for="Description" rows="10" id="editor" class="form-control"> </textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <button class="btn btn-primary" type="submit">Save</button>
+        </form>
+    </div>
+</div>
+<!--Visible labels Form End -->
+<script src="~/ckeditor5-build-classic/ckeditor.js"></script>
+<script>
+    ClassicEditor
+        .Update(document.querySelector('#editor'), {
+        })
+        .then(editor => {
+            window.editor = editor;
+        })
+        .catch(err => {
+            console.error(err.stack);
+        });
+</script>

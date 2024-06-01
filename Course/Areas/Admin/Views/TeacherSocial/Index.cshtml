@@ -1,0 +1,41 @@
+﻿@using CourseApp.Models
+@model List<TeacherSocial>
+@{
+    ViewData["Title"] = ViewBag.TeacherName + "'s Social Medias";
+    Layout = "~/Areas/Admin/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="col-lg-12">
+    <div class="ibox float-e-margins">
+        <div class="ibox-title d-flex">
+            <h5> @ViewBag.TeacherName's Social Medias </h5>
+            <a href="/Admin/TeacherSocial/CreateSocial/@ViewBag.TeacherId" style="margin-left: 1000px" class="btn btn-primary">Add Social</a>
+        </div>
+        <!-- / ibox-title -->
+        <div id="demo7" class="ibox-content collapse in">
+            <div class="borderedTable">
+                <div class="table-scrollable">
+                    <table class="table table-striped table-bordered table-advance table-hover">
+
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <th><i style="margin-right:10px" class="fa-brands fa-@item.Icon"></i>@item.SocialTitle</th>
+                                    <td><a href="@item.ScoialLink" class="btn btn-primary">Go to Account</a></td>
+                                    <td>
+                                        <a href="/Admin/TeacherSocial/UpdateSocial/@item.TeacherSocialId" class="btn btn-primary">Edit</a>
+                                        <a href="/Admin/TeacherSocial/DeleteSocial/@item.TeacherSocialId" class="btn btn-danger">Delete</a>
+                                    </td>
+                                    
+                                </tr>
+                            }
+                            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

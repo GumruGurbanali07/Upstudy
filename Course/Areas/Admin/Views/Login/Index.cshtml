@@ -1,0 +1,56 @@
+﻿@using CourseApp.Areas.Admin.Models.AdminDTOs
+@model AdminLoginDTO
+@addTagHelper*,Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login | My Course</title>
+    <link rel="icon" type="image/x-icon" href="~/favicon.png" />
+    <link rel="stylesheet" type="text/css" href="~/Login and Register/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="~/Login and Register/css/fontawesome-all.min.css">
+    <link rel="stylesheet" type="text/css" href="~/Login and Register/css/iofrm-style.css">
+    <link rel="stylesheet" type="text/css" href="~/Login and Register/css/iofrm-theme15.css">
+</head>
+<body>
+    <div class="form-body">
+        
+        <div class="row">
+            <div class="img-holder">
+                <div class="bg"></div>
+                <div class="info-holder">
+                    <h2><b>Admin panel</b></h2>
+                   
+                </div>
+            </div>
+            <div class="form-holder">
+                <div class="form-content">
+                    <div class="form-items">
+                      
+                        <form method="post">
+                            <input asp-for="Username" class="form-control" type="text" name="username" placeholder="Username" required>
+                            <span asp-validation-for="Username" class="text-danger"></span>
+                            <input asp-for="Password" class="form-control" type="password" name="password" placeholder="Password" required>
+                            <span asp-validation-for="Password" class="text-danger"></span>
+
+                            <div class="form-button">
+                                <button id="submit" type="submit" class="ibtn">Login</button>
+                            </div>
+                        </form>
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="~/Login and Register/js/jquery.min.js"></script>
+    <script src="~/Login and Register/js/popper.min.js"></script>
+    <script src="~/Login and Register/js/bootstrap.min.js"></script>
+    <script src="~/Login and Register/js/main.js"></script>
+</body>
+
+</html>
+

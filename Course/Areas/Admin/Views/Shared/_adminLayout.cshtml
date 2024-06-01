@@ -1,0 +1,144 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewBag.Title | My Course</title>
+    <link rel="icon" type="image/x-icon" href="~/favicon.png" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Bootstrap -->
+    <link href="~/course-admin/assets/css/bootstrap.min.css" rel="stylesheet">
+    <!-- slimscroll -->
+    <link href="~/course-admin/assets/css/jquery.slimscroll.css" rel="stylesheet">
+    <!-- Fontes -->
+    <link href="~/course-admin/assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="~/course-admin/assets/css/simple-line-icons.css" rel="stylesheet">
+    <!-- all buttons css -->
+    <link href="~/course-admin/assets/css/buttons.css" rel="stylesheet">
+    <!-- animate css -->
+    <link href="~/course-admin/assets/css/animate.css" rel="stylesheet">
+    <!-- adminbag main css -->
+    <link href="~/course-admin/assets/css/main.css" rel="stylesheet">
+    <!-- aqua black theme css -->
+    <link href="~/course-admin/assets/css/aqua-black.css" rel="stylesheet">
+    <!-- media css for responsive  -->
+    <link href="~/course-admin/assets/css/main.media.css" rel="stylesheet">
+    <!--[if lt IE 9]> <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
+    <!--[if lt IE 9]> <script src="dist/html5shiv.js"></script> <![endif]-->
+    <style>
+        #menuname {
+            padding-left: 15px;
+            margin-top: 20px;
+            background-color: #181818;
+            color: #b4bcc8;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            border-top: 1px solid;
+            border-bottom: 1px solid;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="page-header navbar">
+        <!-- BEGIN HEADER INNER -->
+        <div class="page-header-inner ">
+            <!-- BEGIN LOGO -->
+            <div class="page-logo">
+                <a href="/Admin/Course/Index"> My Course </a>
+            </div>
+            <div class="library-menu"> <span class="one">-</span> <span class="two">-</span> <span class="three">-</span> </div>
+            <!-- END LOGO -->
+            <!-- BEGIN TOP NAVIGATION MENU -->
+            <div class="top-menu">
+                <ul class="nav navbar-nav pull-right">
+                    <li class="dropdown">
+                        <a href="#" data-toggle="dropdown" class="dropdown-toggle count-info"> <i class="fa fa-envelope"></i> <span class="badge badge-info">6</span> </a>
+
+                    </li>
+
+
+                    <!-- START USER LOGIN DROPDOWN -->
+                    @await Component.InvokeAsync("_NavbarProfileDetailPartialComponent")
+
+                    <!-- END USER LOGIN DROPDOWN -->
+
+                </ul>
+            </div>
+            <!-- END TOP NAVIGATION MENU -->
+        </div>
+        <!-- END HEADER INNER -->
+    </div>
+    <div class="clearfix"> </div>
+    <div class="page-container">
+        <!-- Start page sidebar wrapper -->
+        <div class="page-sidebar-wrapper">
+            <div class="page-sidebar">
+                <ul class="page-sidebar-menu  page-header-fixed ">
+                    <li><h3 id="menuname"><i class="fa-solid fa-home" style="margin-right:10px;"></i>Main</h3></li>
+                    <li class="nav-item"> <a class="nav-link" href="/Admin/Course/Index"> <i class="fa-solid fa-person-chalkboard"></i> <span class="title">Courses</span> </a></li>
+                    <li class="nav-item"> <a class="nav-link" href="/Admin/CourseCategory/Index"> <i class="fa-solid fa-list"></i> <span class="title">Course Categories</span> </a></li>
+                    <li class="nav-item"> <a class="nav-link" href="/Admin/Teacher/Index"> <i class="fa-solid fa-chalkboard-user"></i> <span class="title">Teachers</span> </a></li>
+                    <li class="nav-item"> <a class="nav-link" href="/Admin/Student/Index"> <i class="fa-solid fa-graduation-cap"></i> <span class="title">Students</span> </a></li>
+                    <li class="nav-item"><a class="nav-link" href="/Admin/CourseSubscribe/Index"><i class="fa-solid fa-heart"></i><span class="title">Course Subcribes</span></a></li>
+                    <li class="nav-item"><a class="nav-link" href="/Admin/Graduate/Index"><i class="fa-solid fa-user-graduate"></i><span class="title">Graduates</span></a></li>
+                    <li class="nav-item"> <a class="nav-link" href="/Admin/Admin/Index"><i class="fa-solid fa-user"></i><span class="title">Admins</span> </a></li>
+                    <li class="nav-item"> <a class="nav-link" href="/Admin/About/Index"> <i class="fa-solid fa-circle-info"></i> <span class="title">About</span> </a></li>
+                    <li class="nav-item"> <a class="nav-link" href="/Admin/Contact/Index"> <i class="fa-solid fa-circle-question"></i><span class="title">Contacts</span> </a></li>
+                    <li class="nav-item"> <a class="nav-link" href="/Admin/Testimonial/Index"> <i class="fa-solid fa-comment"></i><span class="title">Testimonials</span> </a></li>
+                    <li class="nav-item"> <a class="nav-link" href="/Admin/ContactDetail/Index"> <i class="fa-regular fa-id-badge"></i><span class="title">Contact Details</span> </a></li>
+                    <li class="nav-item"><a target="_blank" class="nav-link" href="/Home/Index"><i class="fa-solid fa-arrow-right"></i><span class="title">Go to Site</span></a></li>
+                    <li><h3 id="menuname"><i class="fa-solid fa-chalkboard-user" style="margin-right:10px;"></i>For teacher</h3></li>
+                    <li class="nav-item"> <a class="nav-link" href="/Admin/Blog/Index"> <i class="fa-brands fa-blogger-b"></i> <span class="title">Blogs</span> </a></li>
+                    <li class="nav-item"> <a class="nav-link" href="/Admin/BlogCategory/Index"> <i class="fa-solid fa-table-columns"></i> <span class="title">Blog Categories</span> </a></li>
+
+
+                </ul>
+            </div>
+        </div>
+        <!-- End page sidebar wrapper -->
+        <!-- Start page content wrapper -->
+        <div class="page-content-wrapper animated fadeInRight">
+            <div class="page-content">
+
+                <div class="wrapper-content ">
+                    @RenderBody()
+                </div>
+
+                <!-- start footer -->
+                <div class="footer">
+                    <div class="pull-right">
+                        <ul class="list-inline">
+                            <li><a title="" href="index.html">Dashboard</a></li>
+                            <li><a title="" href="mailbox.html"> Inbox </a></li>
+                            <li><a title="" href="blog.html">Blog</a></li>
+                            <li><a title="" href="contacts.html">Contacts</a></li>
+                        </ul>
+                    </div>
+                    <div> <strong>Copyright</strong> AdminBag Company &copy; 2017 </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Go top -->
+    <a href="#" class="scrollup"><i class="fa fa-chevron-up"></i></a>
+    <!-- Go top -->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="~/course-admin/assets/js/vendor/jquery.min.js"></script>
+    <!-- bootstrap js -->
+    <script src="~/course-admin/assets/js/vendor/bootstrap.min.js"></script>
+    <!-- slimscroll js -->
+    <script type="text/javascript" src="~/course-admin/assets/js/vendor/jquery.slimscroll.js"></script>
+    <!-- pace js -->
+    <script src="~/course-admin/assets/js/vendor/pace/pace.min.js"></script>
+    <!-- main js -->
+    <script src="~/course-admin/assets/js/main.js"></script>
+</body>
+
+
+
+</html>

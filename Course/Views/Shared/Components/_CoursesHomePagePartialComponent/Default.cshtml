@@ -1,0 +1,71 @@
+﻿@model List<Courses>
+
+<div class="section section-padding">
+    <div class="container">
+
+        <!-- Course Header Start -->
+        <div class="course-header">
+            <!-- Section Title Start -->
+            <div class="section-title text-center">
+                <h2 class="title"><span>Popular</span> Courses</h2>
+            </div>
+            <!-- Section Title End -->
+
+        </div>
+        <!-- Course Header End -->
+        <!-- Courses Wrapper Start -->
+        <div class="courses-wrapper">
+
+            <!-- Courses Tab Start -->
+            <div class="courses-tab">
+
+                <!-- Courses Tab Content Start -->
+                <div class="tab-content courses-tab-content">
+
+                    <div class="row">
+                        @foreach (var item in Model)
+                        {
+                            <div class="col-lg-3 col-sm-6">
+                                <!-- Single Courses Start -->
+                                <div class="single-course">
+                                    <div class="courses-image">
+                                        <a href="course-details.html"><img src="@item.CourseImage" style="height:200px; width:320px;" alt="Courses"></a>
+                                    </div>
+                                    <div class="courses-content">
+                                        <div class="top-meta">
+                                            <div class="tag-time">
+                                                <a class="tag" href="#">@item.CourseCategory.CourseCategoryName</a>
+                                            </div>
+                                            <span class="price">
+                                                <span class="sale-price">@item.Price ₼</span>
+                                            </span>
+                                        </div>
+                                        <h3 class="title"><a href="#">@item.CourseName</a></h3>
+                                        <p>
+                                            @if (item.CourseDescription.Length > 100)
+                                            {
+                                                @Html.Raw(item.CourseDescription.Substring(0, 100)+"...");
+                                            }
+                                            else
+                                            {
+                                                @Html.Raw(item.CourseDescription);
+                                            }
+                                        </p>
+                                    </div>
+                                </div>
+                                <!-- Single Courses End -->
+                            </div>
+                        }
+                    </div>
+
+                </div>
+
+            </div>
+            <!-- Courses Tab Content End -->
+
+        </div>
+        <!-- Courses Tab End -->
+
+    </div>
+    <!-- Courses Wrapper End -->
+</div>

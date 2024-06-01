@@ -1,0 +1,7 @@
+﻿@model List<TeacherSocial>
+<ul class="social">
+    @foreach (var item in Model)
+    {
+        <li><a title="@item.SocialTitle" href="@item.ScoialLink"><i class="fab fa-@item.Icon"></i></a></li>
+    }
+</ul>

@@ -1,0 +1,58 @@
+﻿@using CourseApp.Areas.Admin.Models.TeacherDTOs
+@model CreateTeacherDTO
+@addTagHelper*,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Create Teacher";
+    Layout = "~/Areas/Admin/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="col-lg-12 top20">
+    <div class="widgets-container">
+
+
+        <h5>Create Teacher</h5>
+        <hr>
+        <form method="post" enctype="multipart/form-data">
+            <div class="row">
+                <div class="col-md-4">
+                    <input asp-for="TeacherName" class="form-control" placeholder="Teacher name" type="text">
+                    <span asp-validation-for="TeacherName" class="text-danger"></span>
+
+                </div>
+                <div class="col-md-4">
+                    <input asp-for="TeacherImage" class="form-control" type="file">
+                    <span asp-validation-for="TeacherImage" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-md-12">
+                    <input asp-for="Speciality" class="form-control" placeholder="Speciality" type="text">
+                    <span asp-validation-for="Speciality" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-md-12">
+                    <textarea asp-for="Description" id="editor" class="form-control" placeholder="Speciality"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <button class="btn btn-primary" type="submit">Save</button>
+        </form>
+    </div>
+</div>
+<script src="~/ckeditor5-build-classic/ckeditor.js"></script>
+<script>
+    ClassicEditor
+        .create(document.querySelector('#editor'), {
+        })
+        .then(editor => {
+            window.editor = editor;
+        })
+        .catch(err => {
+            console.error(err.stack);
+        });
+</script>
+

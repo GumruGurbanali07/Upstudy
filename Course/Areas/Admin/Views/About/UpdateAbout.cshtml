@@ -1,0 +1,42 @@
+﻿@using CourseApp.Areas.Admin.Models.AboutDTOs
+@model UpdateAboutDTO
+@addTagHelper*,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Update About";
+    Layout = "~/Areas/Admin/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="col-lg-12 top20">
+    <div class="widgets-container">
+
+
+        <h5>Update About</h5>
+        <hr>
+        <form method="post" enctype="multipart/form-data">
+            <input asp-for="AboutId" hidden />
+            <div class="row">
+                <div class="col-md-4">
+                    <input asp-for="AboutTitle" class="form-control" placeholder="About title" type="text">
+                    <span asp-validation-for="AboutTitle" class="text-danger"></span>
+
+                </div>
+                <div class="col-md-4">
+                    <input asp-for="Image" class="form-control" type="file">
+                    <span asp-validation-for="Image" class="text-danger"></span>
+
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-md-12">
+                    <textarea class="form-control" asp-for="AboutDescription" placeholder="Description"></textarea>
+                    <span asp-validation-for="AboutDescription" class="text-danger"></span>
+                </div>
+
+            </div>
+            <br />
+            <button class="btn btn-primary" type="submit">Save</button>
+        </form>
+    </div>
+</div>
+

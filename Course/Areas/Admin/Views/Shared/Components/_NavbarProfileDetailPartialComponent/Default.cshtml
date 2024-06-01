@@ -1,0 +1,14 @@
+﻿@using CourseApp.Models
+@model AppUser
+<li class="dropdown dropdown-user">
+	<a data-close-others="true" data-hover="dropdown" data-toggle="dropdown" class="dropdown-toggle" href="javascript:;">
+		<img src="@Model.Image" class="img-circle" alt=""> <span class="username username-hide-on-mobile"> @Model.Name @Model.Surname</span><i class="fa fa-angle-down"></i>
+	</a>
+	<ul class="dropdown-menu dropdown-menu-default">
+		
+		<li>
+			<a href="/Admin/Admin/EditAccount"> <i class="icon-key"></i> Update Profile </a>
+			<a href="/Admin/Login/LogOut"> <i class="icon-key"></i> Log Out </a>
+		</li>
+	</ul>
+</li>

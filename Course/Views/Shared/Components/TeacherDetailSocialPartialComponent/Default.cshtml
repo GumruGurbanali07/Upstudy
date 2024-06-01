@@ -1,0 +1,13 @@
+﻿@model List<TeacherSocial>
+<div class="profile-social">
+    <h5 class="title">Follow Me</h5>
+    <ul>
+        @foreach(var item in Model)
+        {
+             <li><a class="facebook" href="@item.ScoialLink"><i class="fab fa-@item.Icon"></i></a></li>
+        }
+       
+       
+    </ul>
+</div>
+

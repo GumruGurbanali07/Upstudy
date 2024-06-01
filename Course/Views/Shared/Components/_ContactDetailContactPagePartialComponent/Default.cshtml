@@ -1,0 +1,40 @@
+﻿@model ContactDetail
+
+<div class="col-lg-4">
+    <div class="contact-info-wrap">
+        <h3 class="info-title">Contact with us</h3>
+        <!--Single Contact Info Start -->
+        <div class="single-contact-info">
+            <div class="info-icon">
+                <i class="flaticon-phone-call"></i>
+            </div>
+            <div class="info-content">
+                <h5 class="title">Telephone Number</h5>
+                <p><a href="tel: @Model.PhoneNumber">@Model.PhoneNumber</a></p>
+            </div>
+        </div>
+        <!--Single Contact Info End -->
+        <!--Single Contact Info Start -->
+        <div class="single-contact-info">
+            <div class="info-icon">
+                <i class="flaticon-email"></i>
+            </div>
+            <div class="info-content">
+                <h5 class="title">Email Address</h5>
+                <p><a href="mailto:@Model.Email">@Model.Email</a></p>
+            </div>
+        </div>
+        <!--Single Contact Info End -->
+        <!--Single Contact Info Start -->
+        <div class="single-contact-info">
+            <div class="info-icon">
+                <i class="flaticon-pin"></i>
+            </div>
+            <div class="info-content">
+                <h5 class="title">Office Location Address</h5>
+                <p>@Model.Address</p>
+            </div>
+        </div>
+        <!--Single Contact Info End -->
+    </div>
+</div>

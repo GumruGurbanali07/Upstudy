@@ -1,0 +1,34 @@
+﻿@model List<CourseCategory>
+
+<!-- Category Start -->
+<div class="section upstudy-category-section">
+    <div class="container">
+        <div class="category-wrap">
+            <div class="row">
+                <div class="section-title text-center">
+                    <h2 class="title">Top <span>Categories</span></h2>
+                </div>
+            </div>
+            <div class="category-content-wrap">
+                <div class="row">
+                    @foreach (var item in Model)
+                    {
+                        <div class="col-xl-3 col-lg-4 col-sm-6">
+                            <!-- Category Item Start -->
+                            <a href="#" class="category-item">
+                                <div class="category-icon">
+                                     <i style="font-size:25px" class="fa-solid text-danger fa-@item.Icon"></i>
+                                </div>
+                                <div class="category-content">
+                                    <h3 class="title">@item.CourseCategoryName</h3>
+                                </div>
+                            </a>
+                            <!-- Category Item End -->
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Category End -->

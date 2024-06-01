@@ -1,0 +1,56 @@
+﻿@using CourseApp.Areas.Admin.Models.StudentDTOs
+@model UpdateStudentDTO
+@addTagHelper*,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Update Student";
+    Layout = "~/Areas/Admin/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="col-lg-12 top20">
+    <div class="widgets-container">
+
+
+        <h5>Update Student</h5>
+        <hr>
+        <form method="post" enctype="multipart/form-data">
+            <input asp-for="StudentId" hidden />
+            <div class="row">
+                <div class="col-md-4">
+                    <input asp-for="StudentName" class="form-control" placeholder="Student name" type="text">
+                    <span asp-validation-for="StudentName" class="text-danger"></span>
+
+                </div>
+                <div class="col-md-4">
+                    <input asp-for="StudentImage" class="form-control" type="file">
+                    <span asp-validation-for="StudentImage" class="text-danger"></span>
+
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-md-4">
+                    <input asp-for="PhoneNumber" class="form-control" placeholder="Phone number" type="tel">
+                    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+
+                </div>
+
+                <div class="col-md-4">
+                    <input asp-for="Email" class="form-control" placeholder="Email" type="email">
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+            <div class="row">
+                <div class="col-md-4">
+                    <input asp-for="BirthDate" class="form-control" placeholder="Birthdate" type="date">
+                    <span asp-validation-for="BirthDate" class="text-danger"></span>
+                </div>
+
+
+            </div>
+            <br />
+            <button class="btn btn-primary" type="submit">Save</button>
+        </form>
+    </div>
+</div>
+

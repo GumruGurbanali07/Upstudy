@@ -1,0 +1,28 @@
+﻿@using CourseApp.Models
+@model CourseSubcribe
+@addTagHelper*,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Add Subscriber";
+    Layout = "~/Areas/Admin/Views/Shared/_adminLayout.cshtml";
+}
+
+<div class="col-lg-12 top20">
+    <div class="widgets-container">
+
+
+        <h5>Add Subscriber</h5>
+        <hr>
+        <form method="post" >
+            <input asp-for="CourseId" value="@ViewBag.CourseId" hidden />
+            <div class="row">
+                <div class="col-md-4">
+                    <select asp-for="StudentId" asp-items="@ViewBag.Students" class="form-control" ></select>
+
+                </div>
+
+            </div>
+            <br />
+            <button class="btn btn-primary" type="submit">Save</button>
+        </form>
+    </div>
+</div>
